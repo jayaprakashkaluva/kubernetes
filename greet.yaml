@@ -1,7 +1,7 @@
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
-  name: test
+  name: hello-world
 spec:
   replicas: 1 
   template:
